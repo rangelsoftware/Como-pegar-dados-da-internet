@@ -1,0 +1,23 @@
+{
+  "name": "pegar_dados_da_internet",
+  "version": "1.0.0",
+  "description": "Um exemplo de como pegar dados da internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangelsoftware/Como-pegar-dados-da-internet.git"
+  },
+  "author": "Ronildes Rangel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangelsoftware/Como-pegar-dados-da-internet/issues"
+  },
+  "homepage": "https://github.com/rangelsoftware/Como-pegar-dados-da-internet#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^18.2.1"
+  }
+}
